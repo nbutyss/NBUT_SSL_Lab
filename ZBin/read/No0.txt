@@ -1,0 +1,222 @@
+id 0 infrared1 flat0 chip0time42.257
+日期:Tue May 11 15:24:29 2021
+
+id 0 infrared0 flat0 chip0time47.147
+日期:Tue May 11 15:24:33 2021
+
+id 0 infrared0 flat0 chip0time58.704
+日期:Tue May 11 15:24:45 2021
+
+id 0 infrared0 flat0 chip0time58.731
+日期:Tue May 11 15:24:45 2021
+
+id 0 infrared0 flat0 chip0time58.745
+日期:Tue May 11 15:24:45 2021
+
+id 0 infrared1 flat0 chip0time2000.63
+日期:Fri May 14 20:22:29 2021
+
+id 0 infrared1 flat0 chip1time2002.16
+日期:Fri May 14 20:22:31 2021
+
+id 0 infrared0 flat0 chip1time2002.17
+日期:Fri May 14 20:22:31 2021
+
+id 0 infrared0 flat0 chip0time2002.31
+日期:Fri May 14 20:22:31 2021
+
+id 0 infrared1 flat0 chip0time8952.34
+日期:Fri May 14 22:18:21 2021
+
+id 0 infrared1 flat1 chip0time8954.6
+日期:Fri May 14 22:18:23 2021
+
+id 0 infrared0 flat1 chip0time8954.61
+日期:Fri May 14 22:18:23 2021
+
+id 0 infrared0 flat0 chip0time8954.76
+日期:Fri May 14 22:18:23 2021
+
+id 0 infrared1 flat0 chip0time8976.1
+日期:Fri May 14 22:18:45 2021
+
+id 0 infrared1 flat1 chip0time8977.6
+日期:Fri May 14 22:18:46 2021
+
+id 0 infrared0 flat1 chip0time8977.62
+日期:Fri May 14 22:18:46 2021
+
+id 0 infrared0 flat0 chip0time8977.76
+日期:Fri May 14 22:18:46 2021
+
+id 0 infrared1 flat0 chip0time8978.87
+日期:Fri May 14 22:18:47 2021
+
+id 0 infrared1 flat1 chip0time8978.98
+日期:Fri May 14 22:18:47 2021
+
+id 0 infrared0 flat1 chip0time8979
+日期:Fri May 14 22:18:47 2021
+
+id 0 infrared0 flat0 chip0time8979.14
+日期:Fri May 14 22:18:48 2021
+
+id 0 infrared1 flat0 chip0time8980.23
+日期:Fri May 14 22:18:49 2021
+
+id 0 infrared1 flat1 chip0time8980.45
+日期:Fri May 14 22:18:49 2021
+
+id 0 infrared0 flat1 chip0time8980.47
+日期:Fri May 14 22:18:49 2021
+
+id 0 infrared0 flat0 chip0time8980.61
+日期:Fri May 14 22:18:49 2021
+
+id 0 infrared1 flat0 chip0time8981.68
+日期:Fri May 14 22:18:50 2021
+
+id 0 infrared1 flat1 chip0time8983.17
+日期:Fri May 14 22:18:52 2021
+
+id 0 infrared0 flat1 chip0time8983.19
+日期:Fri May 14 22:18:52 2021
+
+id 0 infrared0 flat0 chip0time8983.33
+日期:Fri May 14 22:18:52 2021
+
+id 0 infrared1 flat0 chip0time8984.29
+日期:Fri May 14 22:18:53 2021
+
+id 0 infrared1 flat1 chip0time8984.77
+日期:Fri May 14 22:18:53 2021
+
+id 0 infrared0 flat1 chip0time8984.79
+日期:Fri May 14 22:18:53 2021
+
+id 0 infrared0 flat0 chip0time8984.93
+日期:Fri May 14 22:18:53 2021
+
+id 0 infrared1 flat0 chip0time8985.83
+日期:Fri May 14 22:18:54 2021
+
+id 0 infrared1 flat0 chip1time8992.56
+日期:Fri May 14 22:19:01 2021
+
+id 0 infrared0 flat0 chip1time8992.58
+日期:Fri May 14 22:19:01 2021
+
+id 0 infrared0 flat0 chip0time8992.73
+日期:Fri May 14 22:19:01 2021
+
+id 0 infrared1 flat0 chip0time9194.15
+日期:Fri May 14 22:22:23 2021
+
+id 0 infrared1 flat1 chip0time9194.5
+日期:Fri May 14 22:22:23 2021
+
+id 0 infrared0 flat1 chip0time9194.52
+日期:Fri May 14 22:22:23 2021
+
+id 0 infrared0 flat0 chip0time9194.66
+日期:Fri May 14 22:22:23 2021
+
+id 0 infrared1 flat0 chip0time572.75
+日期:Fri May 14 22:58:56 2021
+
+id 0 infrared1 flat0 chip1time573.085
+日期:Fri May 14 22:58:57 2021
+
+id 0 infrared0 flat0 chip1time573.098
+日期:Fri May 14 22:58:57 2021
+
+id 0 infrared0 flat0 chip0time573.244
+日期:Fri May 14 22:58:57 2021
+
+id 0 infrared1 flat1 chip0time1120.67
+日期:Fri May 14 23:08:04 2021
+
+id 0 infrared0 flat1 chip0time1120.68
+日期:Fri May 14 23:08:04 2021
+
+id 0 infrared0 flat0 chip0time1120.83
+日期:Fri May 14 23:08:05 2021
+
+id 0 infrared1 flat0 chip0time1121.93
+日期:Fri May 14 23:08:06 2021
+
+id 0 infrared1 flat1 chip0time1122.09
+日期:Fri May 14 23:08:06 2021
+
+id 0 infrared0 flat1 chip0time1122.11
+日期:Fri May 14 23:08:06 2021
+
+id 0 infrared0 flat0 chip0time1122.25
+日期:Fri May 14 23:08:06 2021
+
+id 0 infrared1 flat0 chip0time1123.34
+日期:Fri May 14 23:08:07 2021
+
+id 0 infrared1 flat1 chip0time1123.37
+日期:Fri May 14 23:08:07 2021
+
+id 0 infrared0 flat1 chip0time1123.39
+日期:Fri May 14 23:08:07 2021
+
+id 0 infrared0 flat0 chip0time1123.53
+日期:Fri May 14 23:08:07 2021
+
+id 0 infrared1 flat0 chip0time1124.59
+日期:Fri May 14 23:08:08 2021
+
+id 0 infrared1 flat1 chip0time1134.25
+日期:Fri May 14 23:08:18 2021
+
+id 0 infrared0 flat1 chip0time1134.27
+日期:Fri May 14 23:08:18 2021
+
+id 0 infrared0 flat0 chip0time1134.41
+日期:Fri May 14 23:08:18 2021
+
+id 0 infrared1 flat0 chip0time1135.35
+日期:Fri May 14 23:08:19 2021
+
+id 0 infrared1 flat1 chip0time1135.58
+日期:Fri May 14 23:08:19 2021
+
+id 0 infrared0 flat1 chip0time1135.59
+日期:Fri May 14 23:08:19 2021
+
+id 0 infrared0 flat0 chip0time1135.74
+日期:Fri May 14 23:08:19 2021
+
+id 0 infrared1 flat0 chip0time1398.49
+日期:Fri May 14 23:12:42 2021
+
+id 0 infrared1 flat1 chip0time1398.75
+日期:Fri May 14 23:12:42 2021
+
+id 0 infrared0 flat1 chip0time1398.84
+日期:Fri May 14 23:12:43 2021
+
+id 0 infrared0 flat0 chip0time1398.99
+日期:Fri May 14 23:12:43 2021
+
+id 0 infrared1 flat0 chip0time1401.42
+日期:Fri May 14 23:12:45 2021
+
+id 0 infrared0 flat0 chip0time1401.48
+日期:Fri May 14 23:12:45 2021
+
+id 0 infrared1 flat0 chip0time1401.74
+日期:Fri May 14 23:12:45 2021
+
+id 0 infrared1 flat0 chip1time1402.38
+日期:Fri May 14 23:12:46 2021
+
+id 0 infrared0 flat0 chip1time1402.38
+日期:Fri May 14 23:12:46 2021
+
+id 0 infrared0 flat0 chip0time1402.54
+日期:Fri May 14 23:12:46 2021
+
