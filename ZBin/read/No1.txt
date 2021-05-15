@@ -1,0 +1,18 @@
+id 1 infrared1 flat0 chip0time9090.88
+日期:Fri May 14 22:20:39 2021
+
+id 1 infrared0 flat0 chip0time9093.68
+日期:Fri May 14 22:20:42 2021
+
+id 1 infrared1 flat0 chip0time9102.1
+日期:Fri May 14 22:20:51 2021
+
+id 1 infrared0 flat0 chip0time9109.25
+日期:Fri May 14 22:20:58 2021
+
+id 1 infrared1 flat0 chip0time16.463
+日期:Sat May 15 13:46:25 2021
+
+id 1 infrared0 flat0 chip0time16.51
+日期:Sat May 15 13:46:25 2021
+
